@@ -54,7 +54,7 @@ In this section you will analyze the restaurants delivery times. To perform the 
 In this section you are invited to showcase your creativity as an analyst by developing an interesting analysis. You should open this section by stating a clear "business question," followed by a series of analysis (e.g., charts, tables) that investigate this question. You are also required to narrate your findings.
 
 
-## Deliverables
+# Deliverables
 
 You are required to deliver the analysis using an Rmarkdown. You will have to share both the final analysis in PDF and the code that generates that analysis in `.Rmd` format.
 
