@@ -58,5 +58,6 @@ In this section you are invited to showcase your creativity as an analyst by dev
 
 You are required to deliver the analysis using an Rmarkdown. You will have to share both the final analysis in PDF and the code that generates that analysis in `.Rmd` format.
 
-- Report in PDF
-- Rmarkdown code (.Rmd file)
+- Report in PDF.
+- Rmarkdown code (.Rmd file).
+- URL to github page where to find the previous two deliverables.
