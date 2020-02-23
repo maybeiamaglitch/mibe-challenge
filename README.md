@@ -60,4 +60,4 @@ You are required to deliver the analysis using an Rmarkdown. You will have to sh
 
 - Report in PDF.
 - Rmarkdown code (.Rmd file).
-- URL to github page where to find the previous two deliverables.
+- URL to Github page where to find the previous two deliverables.
